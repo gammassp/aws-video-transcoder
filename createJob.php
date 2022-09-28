@@ -6,8 +6,8 @@ require "class/AWS_ET.class.php";
 $aws_access_key = "ACCESS_KEY";
 $aws_private_key = "SECRET_KEY";
 $aws_region = "ap-southeast-1";
-$aws_output_bucket_name = "OUTPUT_BUCKET_NAME";
-$aws_cloudfront_bucket_name = "CLOUDFRONT_DOMAIN_NAME";
+
+//pineline id
 $pipelineId = "PIPLINE_ID";
 
 //file info
